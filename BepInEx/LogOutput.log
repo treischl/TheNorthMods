@@ -1,0 +1,1340 @@
+[Message:   BepInEx] BepInEx 5.4.19.0 - valheim (8/11/2022 10:44:15 AM)
+[Info   :   BepInEx] Running under Unity v2020.3.33.9525882
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.9.11]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Loading key sleepWithoutSpawn
+[Info   : Unity Log]  Loading key unclaimedBedsOnly
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Loading key honeyProductionSpeed
+[Info   : Unity Log]  Loading key maximumHoneyPerBeehive
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoDepositRange
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noMysticalForcesPreventPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log]  Loading key pieceComfortRadius
+[Info   : Unity Log]  Loading key alwaysDropResources
+[Info   : Unity Log]  Loading key alwaysDropExcludedResources
+[Info   : Unity Log]  Loading key enableAreaRepair
+[Info   : Unity Log]  Loading key areaRepairRadius
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Loading key inventoryFillTopToBottom
+[Info   : Unity Log]  Loading key mergeWithExistingStacks
+[Info   : Unity Log]  Loading key playerInventoryRows
+[Info   : Unity Log]  Loading key woodChestColumns
+[Info   : Unity Log]  Loading key woodChestRows
+[Info   : Unity Log]  Loading key personalChestColumns
+[Info   : Unity Log]  Loading key personalChestRows
+[Info   : Unity Log]  Loading key ironChestColumns
+[Info   : Unity Log]  Loading key ironChestRows
+[Info   : Unity Log]  Loading key blackmetalChestColumns
+[Info   : Unity Log]  Loading key blackmetalChestRows
+[Info   : Unity Log]  Loading key cartInventoryColumns
+[Info   : Unity Log]  Loading key cartInventoryRows
+[Info   : Unity Log]  Loading key karveInventoryColumns
+[Info   : Unity Log]  Loading key karveInventoryRows
+[Info   : Unity Log]  Loading key longboatInventoryColumns
+[Info   : Unity Log]  Loading key longboatInventoryRows
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Loading key fermenterDuration
+[Info   : Unity Log]  Loading key fermenterItemsProduced
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Loading key torches
+[Info   : Unity Log]  Loading key fires
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log]  Loading key allowAllOres
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key maximumWood
+[Info   : Unity Log]  Loading key dontProcessFineWood
+[Info   : Unity Log]  Loading key dontProcessRoundLog
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key stopAutoFuelThreshold
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Loading key maximumBarley
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key ignoreWindIntensity
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Loading key maximumFlax
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Loading key baseMaximumWeight
+[Info   : Unity Log]  Loading key baseMegingjordBuff
+[Info   : Unity Log]  Loading key baseAutoPickUpRange
+[Info   : Unity Log]  Loading key disableCameraShake
+[Info   : Unity Log]  Loading key baseUnarmedDamage
+[Info   : Unity Log]  Loading key cropNotifier
+[Info   : Unity Log]  Loading key restSecondsPerComfortLevel
+[Info   : Unity Log]  Loading key deathPenaltyMultiplier
+[Info   : Unity Log]  Loading key autoRepair
+[Info   : Unity Log]  Loading key guardianBuffDuration
+[Info   : Unity Log]  Loading key guardianBuffCooldown
+[Info   : Unity Log]  Loading key disableGuardianBuffAnimation
+[Info   : Unity Log]  Loading key autoEquipShield
+[Info   : Unity Log]  Loading key autoUnequipShield
+[Info   : Unity Log]  Loading key skipIntro
+[Info   : Unity Log]  Loading key iHaveArrivedOnSpawn
+[Info   : Unity Log]  Loading key queueWeaponChanges
+[Info   : Unity Log]  Loading key dontUnequipItemsWhenSwimming
+[Info   : Unity Log]  Loading key reequipItemsAfterSwimming
+[Info   : Unity Log]  Loading key fallDamageScalePercent
+[Info   : Unity Log]  Loading key maxFallDamage
+[Info   : Unity Log]  Loading key skipTutorials
+[Info   : Unity Log]  Loading key disableEncumbered
+[Info   : Unity Log]  Loading key autoPickUpWhenEncumbered
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Loading key workbenchRange
+[Info   : Unity Log]  Loading key workbenchEnemySpawnRange
+[Info   : Unity Log]  Loading key workbenchAttachmentRange
+[Info   : Unity Log]  Loading key disableRoofCheck
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Loading key edibles
+[Info   : Unity Log]  Loading key flowersAndIngredients
+[Info   : Unity Log]  Loading key materials
+[Info   : Unity Log]  Loading key valuables
+[Info   : Unity Log]  Loading key surtlingCores
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key weapons
+[Info   : Unity Log]  Loading key armor
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key shields
+[Info   : Unity Log]  Loading key torch
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key disableCookingStation
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log]  Loading key allowCraftingFromCarts
+[Info   : Unity Log]  Loading key allowCraftingFromShips
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   : Unity Log] 12/09/2022 20:13:13: Successfully transpiled Pickable.RPC_Pick to patch item yields
+
+[Info   :Valheim Plus] ValheimPlus [0.9.9.11] is up to date.
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.1.1]
+[Info   :   BepInEx] Loading [MassFarming 1.5]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 12/09/2022 20:13:15: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 12/09/2022 20:13:17: Using environment steamid 892970
+
+[Info   : Unity Log] 12/09/2022 20:13:17: Using steam APPID:892970
+
+[Info   : Unity Log] 12/09/2022 20:13:17: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 12/09/2022 20:13:17: Steam initialized, persona:Salkara
+
+[Info   : Unity Log] 12/09/2022 20:13:17: PlayFab custom ID set to "Steam_76561199004116846"
+
+[Info   : Unity Log] 12/09/2022 20:13:17: Using default prefs
+
+[Info   : Unity Log] 12/09/2022 20:13:17: Valheim version:0.212.7@0.9.9.11
+
+[Info   : Unity Log] 12/09/2022 20:13:17: Worldgenerator version setup:2
+
+[Info   : Unity Log] 12/09/2022 20:13:17: Render threading mode:MultiThreaded
+
+[Warning: Unity Log] 12/09/2022 20:13:17: Missing audio clip in music respawn
+
+[Info   : Unity Log] 12/09/2022 20:13:18: Checking for installed DLCs
+
+[Info   : Unity Log] 12/09/2022 20:13:18: DLC:beta installed:False
+
+[Info   : Unity Log] 12/09/2022 20:13:18: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 12/09/2022 20:13:18: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 12/09/2022 20:13:18: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 12/09/2022 20:13:18: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 12/09/2022 20:13:18: JOIN valheim.reischl.dev:29900
+
+[Info   : Unity Log] 12/09/2022 20:13:18: Not an ip address valheim.reischl.dev doing dns lookup
+
+[Info   : Unity Log] 12/09/2022 20:13:18: Got dns entries: 1
+
+[Info   : Unity Log] 12/09/2022 20:13:18: connect to ip:172.107.182.191 port:29900
+
+[Info   : Unity Log] 12/09/2022 20:13:18: show character selection
+
+[Info   : Unity Log] 12/09/2022 20:13:18: Ticket is System.Byte[] of length 369
+
+[Info   : Unity Log] 12/09/2022 20:13:18: Session auth respons callback
+
+[Info   : Unity Log] 12/09/2022 20:13:18: Starting music menu
+
+[Info   : Unity Log] 12/09/2022 20:13:19: PlayFab logged in as "Steam_76561199004116846"
+
+[Info   : Unity Log] 12/09/2022 20:13:19: PlayFab local entity ID is 5579E5EA19C041E
+
+[Info   : Unity Log] 12/09/2022 20:13:40: OnCharacterStart
+
+[Info   : Unity Log] 12/09/2022 20:13:40: No list saved! Aborting load operation
+
+[Info   : Unity Log] 12/09/2022 20:13:40: Server list doesn't exist yet
+
+[Info   : Unity Log] 12/09/2022 20:13:40: Cloud Save: 64 bytes. /serverlist/recent.new
+
+[Info   : Unity Log] 12/09/2022 20:13:40: Steam writing file chunks 1 / 1, (64 bytes)
+
+[Info   : Unity Log] 12/09/2022 20:13:40: Steam Cloud Move: 64 bytes. /serverlist/recent.new -> /serverlist/recent
+
+[Info   : Unity Log] 12/09/2022 20:13:40: Steam writing file chunks 1 / 1, (64 bytes)
+
+[Info   : Unity Log] 12/09/2022 20:13:40: Added server with name 172.107.182.191:29900 to server list
+
+[Info   : Unity Log] 12/09/2022 20:13:42: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 12/09/2022 20:13:42: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 12/09/2022 20:13:42: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 12/09/2022 20:13:42: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 12/09/2022 20:13:43: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 12/09/2022 20:13:43: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 12/09/2022 20:13:43: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 12/09/2022 20:13:43: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 12/09/2022 20:13:43: PlayFab lobby matching search filter 'string_key10 eq '172.107.182.191:29900' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 12/09/2022 20:13:43: Determined backend of dedicated server to be Steamworks
+
+[Info   : Unity Log] 12/09/2022 20:13:43: Loading main scene
+
+[Info   : Unity Log] 12/09/2022 20:13:44: Steam initialized, persona:Salkara
+
+[Info   : Unity Log] 12/09/2022 20:13:44: PlayFab custom ID set to "Steam_76561199004116846"
+
+[Info   : Unity Log] 12/09/2022 20:13:44: Using default prefs
+
+[Info   : Unity Log] 12/09/2022 20:13:44: Loading player profile stenar rölfsen
+
+[Info   : Unity Log] 12/09/2022 20:13:44: isModded: False
+
+[Info   : Unity Log] 12/09/2022 20:13:44: Zonesystem Awake 3508
+
+[Info   : Unity Log] 12/09/2022 20:13:44: DungeonDB Awake 3508
+
+[Info   : Unity Log] 12/09/2022 20:13:44: Steam initialized, persona:Salkara
+
+[Info   : Unity Log] 12/09/2022 20:13:44: Audioman already exist, destroying self
+
+[Info   : Unity Log] 12/09/2022 20:13:44: Checking for installed DLCs
+
+[Info   : Unity Log] 12/09/2022 20:13:44: DLC:beta installed:False
+
+[Info   : Unity Log] 12/09/2022 20:13:49: Zonesystem Start 3508
+
+[Info   : Unity Log] 12/09/2022 20:13:49: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+
+[Info   : Unity Log] 12/09/2022 20:13:49: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+
+[Info   : Unity Log] 12/09/2022 20:13:49: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+
+[Info   : Unity Log] 12/09/2022 20:13:49: DungeonDB Start 3508
+
+[Info   : Unity Log] 12/09/2022 20:13:50: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 12/09/2022 20:13:50: Connecting to server with Steam-backend 172.107.182.191:29900
+
+[Info   : Unity Log] 12/09/2022 20:13:50: Starting to connect to 172.107.182.191:29900
+
+[Info   : Unity Log] 12/09/2022 20:13:50: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 12/09/2022 20:13:50: New connection
+
+[Info   : Unity Log] 12/09/2022 20:13:50: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 12/09/2022 20:13:50: Connected
+
+[Info   : Unity Log] 12/09/2022 20:13:50: Got connection SteamID 90166829300428803
+
+[Info   : Unity Log] 12/09/2022 20:13:50: Session auth respons callback
+
+[Info   : Unity Log] 12/09/2022 20:13:56: VERSION check their:0.212.7@0.9.9.11  mine:0.212.7@0.9.9.11
+
+[Info   : Unity Log] 12/09/2022 20:13:56: Worldgenerator version setup:1
+
+[Info   : Unity Log] 12/09/2022 20:13:57: -------------------- SENDING VPLUGCONFIGSYNC REQUEST
+
+[Info   : Unity Log] 12/09/2022 20:13:57: client got keys 6
+
+[Info   : Unity Log] 12/09/2022 20:13:57: client got location icons
+
+[Info   : Unity Log] 12/09/2022 20:13:57: Icons:2
+
+[Info   : Unity Log] 12/09/2022 20:13:57: Session auth respons callback
+
+[Info   : Unity Log] 12/09/2022 20:14:02: Unpacking compressed mapdata 27845
+
+[Info   : Unity Log] 12/09/2022 20:14:03: Starting respawn
+
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Loading key sleepWithoutSpawn
+[Info   : Unity Log]  Loading key unclaimedBedsOnly
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Loading key honeyProductionSpeed
+[Info   : Unity Log]  Loading key maximumHoneyPerBeehive
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoDepositRange
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noMysticalForcesPreventPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log]  Loading key pieceComfortRadius
+[Info   : Unity Log]  Loading key alwaysDropResources
+[Info   : Unity Log]  Loading key alwaysDropExcludedResources
+[Info   : Unity Log]  Loading key enableAreaRepair
+[Info   : Unity Log]  Loading key areaRepairRadius
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Loading key inventoryFillTopToBottom
+[Info   : Unity Log]  Loading key mergeWithExistingStacks
+[Info   : Unity Log]  Loading key playerInventoryRows
+[Info   : Unity Log]  Loading key woodChestColumns
+[Info   : Unity Log]  Loading key woodChestRows
+[Info   : Unity Log]  Loading key personalChestColumns
+[Info   : Unity Log]  Loading key personalChestRows
+[Info   : Unity Log]  Loading key ironChestColumns
+[Info   : Unity Log]  Loading key ironChestRows
+[Info   : Unity Log]  Loading key blackmetalChestColumns
+[Info   : Unity Log]  Loading key blackmetalChestRows
+[Info   : Unity Log]  Loading key cartInventoryColumns
+[Info   : Unity Log]  Loading key cartInventoryRows
+[Info   : Unity Log]  Loading key karveInventoryColumns
+[Info   : Unity Log]  Loading key karveInventoryRows
+[Info   : Unity Log]  Loading key longboatInventoryColumns
+[Info   : Unity Log]  Loading key longboatInventoryRows
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Loading key fermenterDuration
+[Info   : Unity Log]  Loading key fermenterItemsProduced
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Loading key torches
+[Info   : Unity Log]  Loading key fires
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log]  Loading key allowAllOres
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key maximumWood
+[Info   : Unity Log]  Loading key dontProcessFineWood
+[Info   : Unity Log]  Loading key dontProcessRoundLog
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key stopAutoFuelThreshold
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Loading key maximumBarley
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key ignoreWindIntensity
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Loading key maximumFlax
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Loading key baseMaximumWeight
+[Info   : Unity Log]  Loading key baseMegingjordBuff
+[Info   : Unity Log]  Loading key baseAutoPickUpRange
+[Info   : Unity Log]  Loading key disableCameraShake
+[Info   : Unity Log]  Loading key baseUnarmedDamage
+[Info   : Unity Log]  Loading key cropNotifier
+[Info   : Unity Log]  Loading key restSecondsPerComfortLevel
+[Info   : Unity Log]  Loading key deathPenaltyMultiplier
+[Info   : Unity Log]  Loading key autoRepair
+[Info   : Unity Log]  Loading key guardianBuffDuration
+[Info   : Unity Log]  Loading key guardianBuffCooldown
+[Info   : Unity Log]  Loading key disableGuardianBuffAnimation
+[Info   : Unity Log]  Loading key autoEquipShield
+[Info   : Unity Log]  Loading key autoUnequipShield
+[Info   : Unity Log]  Loading key skipIntro
+[Info   : Unity Log]  Loading key iHaveArrivedOnSpawn
+[Info   : Unity Log]  Loading key queueWeaponChanges
+[Info   : Unity Log]  Loading key dontUnequipItemsWhenSwimming
+[Info   : Unity Log]  Loading key reequipItemsAfterSwimming
+[Info   : Unity Log]  Loading key fallDamageScalePercent
+[Info   : Unity Log]  Loading key maxFallDamage
+[Info   : Unity Log]  Loading key skipTutorials
+[Info   : Unity Log]  Loading key disableEncumbered
+[Info   : Unity Log]  Loading key autoPickUpWhenEncumbered
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Loading key workbenchRange
+[Info   : Unity Log]  Loading key workbenchEnemySpawnRange
+[Info   : Unity Log]  Loading key workbenchAttachmentRange
+[Info   : Unity Log]  Loading key disableRoofCheck
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Loading key edibles
+[Info   : Unity Log]  Loading key flowersAndIngredients
+[Info   : Unity Log]  Loading key materials
+[Info   : Unity Log]  Loading key valuables
+[Info   : Unity Log]  Loading key surtlingCores
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key weapons
+[Info   : Unity Log]  Loading key armor
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key shields
+[Info   : Unity Log]  Loading key torch
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key disableCookingStation
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log]  Loading key allowCraftingFromCarts
+[Info   : Unity Log]  Loading key allowCraftingFromShips
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] 12/09/2022 20:14:03: Successfully transpiled Pickable.RPC_Pick to patch item yields
+
+[Info   : Unity Log] 12/09/2022 20:14:03: Successfully synced VPlus configuration from server.
+
+[Info   : Unity Log] 12/09/2022 20:14:03: tip:$loadscreen_tip03
+
+[Info   : Unity Log] 12/09/2022 20:14:11: Spawned after 8.019994
+
+[Info   : Unity Log] 12/09/2022 20:14:11: Minimap: Adding unique location (-2.7, 79.7, -4.1)
+
+[Info   : Unity Log] 12/09/2022 20:14:11: Minimap: Adding unique location (2291.3, 31.2, -590.7)
+
+[Info   : Unity Log] 12/09/2022 20:14:13: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:14:13: Resumed music home at 0
+
+[Info   : Unity Log] 12/09/2022 20:14:17: Setting selected recipe 0
+
+[Info   : Unity Log] 12/09/2022 20:14:17: UI Group status changed root = True
+
+[Info   : Unity Log] 12/09/2022 20:14:17: UI Group status changed Player = True
+
+[Info   : Unity Log] 12/09/2022 20:14:19: Force generaeting hmap (1792.0, 0.0, 320.0)
+
+[Info   : Unity Log] 12/09/2022 20:14:24: Force generaeting hmap (1536.0, 0.0, 256.0)
+
+[Info   : Unity Log] 12/09/2022 20:14:27: Stopped music home at 611519
+
+[Info   : Unity Log] 12/09/2022 20:14:27: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:14:27: Resumed music meadows at 0
+
+[Info   : Unity Log] 12/09/2022 20:14:27: Stopped music meadows at 1881
+
+[Info   : Unity Log] 12/09/2022 20:14:27: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:14:27: Resumed music home at 611519
+
+[Info   : Unity Log] 12/09/2022 20:14:31: Force generaeting hmap (1536.0, 0.0, 128.0)
+
+[Info   : Unity Log] 12/09/2022 20:14:31: Force generaeting hmap (1536.0, 0.0, 256.0)
+
+[Info   : Unity Log] 12/09/2022 20:14:33: Stopped music home at 251193
+
+[Info   : Unity Log] 12/09/2022 20:14:33: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:14:33: Resumed music meadows at 1881
+
+[Info   : Unity Log] 12/09/2022 20:14:34: Stopped music meadows at 65855
+
+[Info   : Unity Log] 12/09/2022 20:14:34: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:14:34: Resumed music home at 251193
+
+[Info   : Unity Log] 12/09/2022 20:14:38: Stopped music home at 167462
+
+[Info   : Unity Log] 12/09/2022 20:14:38: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:14:38: Resumed music home at 167462
+
+[Info   : Unity Log] 12/09/2022 20:14:41: Stopped music home at 130771
+
+[Info   : Unity Log] 12/09/2022 20:14:41: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:14:41: Resumed music home at 130771
+
+[Info   : Unity Log] 12/09/2022 20:14:50: Player 35752765 wants to open piece_chest_wood(Clone)   im: 35752765
+
+[Info   : Unity Log] 12/09/2022 20:14:50: Setting selected recipe 0
+
+[Info   : Unity Log] 12/09/2022 20:14:50: UI Group status changed root = True
+
+[Info   : Unity Log] 12/09/2022 20:14:50: UI Group status changed Player = True
+
+[Info   : Unity Log] 12/09/2022 20:14:50: UI Group status changed Container = False
+
+[Info   : Unity Log] 12/09/2022 20:14:56: Player 35752765 wants to open piece_chest_wood(Clone)   im: 35752765
+
+[Info   : Unity Log] 12/09/2022 20:14:57: Setting selected recipe 0
+
+[Info   : Unity Log] 12/09/2022 20:14:57: UI Group status changed root = True
+
+[Info   : Unity Log] 12/09/2022 20:14:57: UI Group status changed Player = True
+
+[Info   : Unity Log] 12/09/2022 20:15:05: Stopped music home at 1055577
+
+[Info   : Unity Log] 12/09/2022 20:15:05: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:15:05: Resumed music home at 1055577
+
+[Info   : Unity Log] 12/09/2022 20:15:06: Force generaeting hmap (1536.0, 0.0, 256.0)
+
+[Info   : Unity Log] 12/09/2022 20:15:08: Stopped music home at 147705
+
+[Info   : Unity Log] 12/09/2022 20:15:08: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:15:08: Resumed music meadows at 65855
+
+[Info   : Unity Log] 12/09/2022 20:15:11: Stopped music meadows at 98783
+
+[Info   : Unity Log] 12/09/2022 20:15:11: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:15:11: Resumed music home at 147705
+
+[Info   : Unity Log] 12/09/2022 20:15:16: Stopped music home at 241785
+
+[Info   : Unity Log] 12/09/2022 20:15:16: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:15:16: Resumed music home at 241785
+
+[Info   : Unity Log] 12/09/2022 20:15:16: Player 35752765 wants to open piece_chest_private(Clone)   im: 35752765
+
+[Info   : Unity Log] 12/09/2022 20:15:16: Setting selected recipe 0
+
+[Info   : Unity Log] 12/09/2022 20:15:16: UI Group status changed root = True
+
+[Info   : Unity Log] 12/09/2022 20:15:16: UI Group status changed Player = True
+
+[Info   : Unity Log] 12/09/2022 20:15:34: Stopped music home at 795916
+
+[Info   : Unity Log] 12/09/2022 20:15:34: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:15:34: Resumed music meadows at 98783
+
+[Info   : Unity Log] 12/09/2022 20:15:34: Spawned Greyling x 1
+
+[Info   : Unity Log] 12/09/2022 20:15:56: Stopped music meadows at 938918
+
+[Info   : Unity Log] 12/09/2022 20:15:56: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:15:56: Resumed music home at 795916
+
+[Info   : Unity Log] 12/09/2022 20:15:57: Stopped music home at 59270
+
+[Info   : Unity Log] 12/09/2022 20:15:57: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:15:57: Resumed music meadows at 938918
+
+[Info   : Unity Log] 12/09/2022 20:15:58: Stopped music meadows at 23519
+
+[Info   : Unity Log] 12/09/2022 20:15:58: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:15:58: Resumed music home at 59270
+
+[Info   : Unity Log] 12/09/2022 20:16:02: Stopped music home at 198508
+
+[Info   : Unity Log] 12/09/2022 20:16:02: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:16:02: Resumed music meadows at 23519
+
+[Info   : Unity Log] 12/09/2022 20:16:04: Stopped music meadows at 61151
+
+[Info   : Unity Log] 12/09/2022 20:16:04: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:16:04: Resumed music home at 198508
+
+[Info   : Unity Log] 12/09/2022 20:16:11: Stopped music home at 315167
+
+[Info   : Unity Log] 12/09/2022 20:16:11: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:16:11: Resumed music home at 315167
+
+[Info   : Unity Log] 12/09/2022 20:16:12: Stopped music home at 66796
+
+[Info   : Unity Log] 12/09/2022 20:16:12: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:16:12: Resumed music meadows at 61151
+
+[Info   : Unity Log] 12/09/2022 20:16:14: Stopped music meadows at 64915
+
+[Info   : Unity Log] 12/09/2022 20:16:14: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:16:14: Resumed music home at 66796
+
+[Info   : Unity Log] 12/09/2022 20:16:15: Stopped music home at 31046
+
+[Info   : Unity Log] 12/09/2022 20:16:15: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:16:15: Resumed music meadows at 64915
+
+[Info   : Unity Log] 12/09/2022 20:16:16: Stopped music meadows at 36691
+
+[Info   : Unity Log] 12/09/2022 20:16:16: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:16:16: Resumed music home at 31046
+
+[Info   : Unity Log] 12/09/2022 20:16:28: Stopped music home at 522143
+
+[Info   : Unity Log] 12/09/2022 20:16:28: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:16:28: Resumed music home at 522143
+
+[Info   : Unity Log] 12/09/2022 20:16:29: Stopped music home at 72441
+
+[Info   : Unity Log] 12/09/2022 20:16:29: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:16:29: Resumed music meadows at 36691
+
+[Info   : Unity Log] 12/09/2022 20:16:34: Stopped music meadows at 220147
+
+[Info   : Unity Log] 12/09/2022 20:16:34: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:16:34: Resumed music meadows at 220147
+
+[Info   : Unity Log] 12/09/2022 20:16:36: Stopped music meadows at 54566
+
+[Info   : Unity Log] 12/09/2022 20:16:36: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:16:36: Resumed music home at 72441
+
+[Info   : Unity Log] 12/09/2022 20:16:37: Stopped music home at 45158
+
+[Info   : Unity Log] 12/09/2022 20:16:37: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:16:37: Resumed music meadows at 54566
+
+[Info   : Unity Log] 12/09/2022 20:16:39: Stopped music meadows at 95961
+
+[Info   : Unity Log] 12/09/2022 20:16:39: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:16:39: Resumed music home at 45158
+
+[Info   : Unity Log] 12/09/2022 20:16:41: Stopped music home at 75263
+
+[Info   : Unity Log] 12/09/2022 20:16:41: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:16:41: Resumed music home at 75263
+
+[Info   : Unity Log] 12/09/2022 20:16:42: Force generaeting hmap (1536.0, 0.0, 256.0)
+
+[Info   : Unity Log] 12/09/2022 20:16:42: Stopped music home at 66796
+
+[Info   : Unity Log] 12/09/2022 20:16:42: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:16:42: Resumed music meadows at 95961
+
+[Info   : Unity Log] 12/09/2022 20:16:43: Stopped music meadows at 18815
+
+[Info   : Unity Log] 12/09/2022 20:16:43: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:16:43: Resumed music home at 66796
+
+[Info   : Unity Log] 12/09/2022 20:16:50: Force generaeting hmap (1536.0, 0.0, 128.0)
+
+[Info   : Unity Log] 12/09/2022 20:16:50: Force generaeting hmap (1536.0, 0.0, 256.0)
+
+[Info   : Unity Log] 12/09/2022 20:16:50: Stopped music home at 328339
+
+[Info   : Unity Log] 12/09/2022 20:16:50: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:16:50: Resumed music home at 328339
+
+[Info   : Unity Log] 12/09/2022 20:16:57: Stopped music home at 296351
+
+[Info   : Unity Log] 12/09/2022 20:16:57: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:16:57: Resumed music meadows at 18815
+
+[Info   : Unity Log] 12/09/2022 20:17:03: Force generaeting hmap (1536.0, 0.0, 256.0)
+
+[Info   : Unity Log] 12/09/2022 20:17:07: Force generaeting hmap (1792.0, 0.0, 320.0)
+
+[Info   : Unity Log] 12/09/2022 20:17:18: Stopped music meadows at 937036
+
+[Info   : Unity Log] 12/09/2022 20:17:18: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:17:18: Resumed music home at 296351
+
+[Info   : Unity Log] 12/09/2022 20:17:32: Stopped music home at 615283
+
+[Info   : Unity Log] 12/09/2022 20:17:32: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:17:32: Resumed music meadows at 937036
+
+[Info   : Unity Log] 12/09/2022 20:17:54: Force generaeting hmap (1536.0, 0.0, 128.0)
+
+[Info   : Unity Log] 12/09/2022 20:17:54: Force generaeting hmap (1536.0, 0.0, 256.0)
+
+[Info   : Unity Log] 12/09/2022 20:17:59: Stopped music meadows at 1165651
+
+[Info   : Unity Log] 12/09/2022 20:17:59: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:17:59: Resumed music home at 615283
+
+[Info   : Unity Log] 12/09/2022 20:18:03: Force generaeting hmap (1536.0, 0.0, 256.0)
+
+[Info   : Unity Log] 12/09/2022 20:18:11: Stopped music home at 554131
+
+[Info   : Unity Log] 12/09/2022 20:18:11: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:18:11: Resumed music meadows at 1165651
+
+[Info   : Unity Log] 12/09/2022 20:18:15: Setting selected recipe 0
+
+[Info   : Unity Log] 12/09/2022 20:18:15: UI Group status changed root = True
+
+[Info   : Unity Log] 12/09/2022 20:18:15: UI Group status changed Player = True
+
+[Info   : Unity Log] 12/09/2022 20:18:20: Setting selected recipe 0
+
+[Info   : Unity Log] 12/09/2022 20:18:20: UI Group status changed root = True
+
+[Info   : Unity Log] 12/09/2022 20:18:20: UI Group status changed Player = True
+
+[Info   : Unity Log] 12/09/2022 20:18:29: Stopped music meadows at 784627
+
+[Info   : Unity Log] 12/09/2022 20:18:29: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:18:29: Resumed music home at 554131
+
+[Info   : Unity Log] 12/09/2022 20:18:33: Setting selected recipe 34
+
+[Info   : Unity Log] 12/09/2022 20:18:34: Setting selected recipe 33
+
+[Info   : Unity Log] 12/09/2022 20:18:37: Setting selected recipe 29
+
+[Info   : Unity Log] 12/09/2022 20:18:39: Setting selected recipe 24
+
+[Info   : Unity Log] 12/09/2022 20:18:42: Setting selected recipe 23
+
+[Info   : Unity Log] 12/09/2022 20:18:43: Setting selected recipe 24
+
+[Info   : Unity Log] 12/09/2022 20:18:45: Setting selected recipe 23
+
+[Info   : Unity Log] 12/09/2022 20:18:47: Setting selected recipe 24
+
+[Info   : Unity Log] 12/09/2022 20:18:48: Setting selected recipe 23
+
+[Info   : Unity Log] 12/09/2022 20:18:49: Setting selected recipe 24
+
+[Info   : Unity Log] 12/09/2022 20:18:52: Setting selected recipe 23
+
+[Info   : Unity Log] 12/09/2022 20:18:53: Setting selected recipe 24
+
+[Info   : Unity Log] 12/09/2022 20:18:58: Stopped music home at 1260671
+
+[Info   : Unity Log] 12/09/2022 20:18:58: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:18:58: Resumed music meadows at 784627
+
+[Info   : Unity Log] 12/09/2022 20:19:05: Stopped music meadows at 301996
+
+[Info   : Unity Log] 12/09/2022 20:19:05: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:19:05: Resumed music home at 1260671
+
+[Info   : Unity Log] 12/09/2022 20:19:05: Stopped music home at 18815
+
+[Info   : Unity Log] 12/09/2022 20:19:05: Starting music meadows
+
+[Info   : Unity Log] 12/09/2022 20:19:05: Resumed music meadows at 301996
+
+[Info   : Unity Log] 12/09/2022 20:19:09: Starting music evening
+
+[Info   : Unity Log] 12/09/2022 20:19:09: Stopped music meadows at 167462
+
+[Info   : Unity Log] 12/09/2022 20:19:10: Spawned Greydwarf_Elite x 1
+
+[Info   : Unity Log] 12/09/2022 20:19:10: Spawned Greydwarf_Shaman x 1
+
+[Info   : Unity Log] 12/09/2022 20:19:48: Queue unlock msg:$msg_newrecipe:$item_turretbolt
+
+[Info   : Unity Log] 12/09/2022 20:19:48: Queue unlock msg:$msg_newrecipe:$item_turretboltwood
+
+[Info   : Unity Log] 12/09/2022 20:19:48: Queue unlock msg:$msg_newpiece:$piece_darkwoodbeam_26
+
+[Info   : Unity Log] 12/09/2022 20:19:48: Queue unlock msg:$msg_newpiece:$piece_darkwoodbeam_45
+
+[Info   : Unity Log] 12/09/2022 20:19:48: Queue unlock msg:$msg_newpiece:$piece_woodironbeam_26
+
+[Info   : Unity Log] 12/09/2022 20:19:48: Queue unlock msg:$msg_newpiece:$piece_woodironbeam_45
+
+[Info   : Unity Log] 12/09/2022 20:19:48: Queue unlock msg:$msg_newpiece:$piece_banner08
+
+[Info   : Unity Log] 12/09/2022 20:19:48: Queue unlock msg:$msg_newpiece:$piece_banner09
+
+[Info   : Unity Log] 12/09/2022 20:19:48: Queue unlock msg:$msg_newpiece:$piece_banner10
+
+[Info   : Unity Log] 12/09/2022 20:19:48: Queue unlock msg:$msg_newpiece:$piece_banner11
+
+[Info   : Unity Log] 12/09/2022 20:19:48: Queue unlock msg:$msg_newpiece:$piece_yulegarland
+
+[Info   : Unity Log] 12/09/2022 20:20:01: Placed wood_floor_1x1
+
+[Info   : Unity Log] 12/09/2022 20:20:05: Placed wood_floor_1x1
+
+[Info   : Unity Log] 12/09/2022 20:20:09: Placed wood_floor_1x1
+
+[Info   : Unity Log] 12/09/2022 20:20:10: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:20:10: Resumed music home at 18815
+
+[Info   : Unity Log] 12/09/2022 20:20:13: Placed wood_floor_1x1
+
+[Info   : Unity Log] 12/09/2022 20:20:21: Placed wood_beam
+
+[Info   : Unity Log] 12/09/2022 20:20:28: Stopped music home at 777100
+
+[Info   : Unity Log] 12/09/2022 20:20:29: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:20:29: Resumed music home at 777100
+
+[Info   : Unity Log] 12/09/2022 20:20:32: Update PlayFab entity token
+
+[Info   : Unity Log] 12/09/2022 20:20:33: Placed wood_beam
+
+[Info   : Unity Log] 12/09/2022 20:20:42: Stopped music home at 550367
+
+[Info   : Unity Log] 12/09/2022 20:20:42: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:20:42: Resumed music home at 550367
+
+[Info   : Unity Log] 12/09/2022 20:20:46: Placed wood_beam
+
+[Info   : Unity Log] 12/09/2022 20:20:50: Stopped music home at 372556
+
+[Info   : Unity Log] 12/09/2022 20:20:50: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:20:50: Resumed music home at 372556
+
+[Info   : Unity Log] 12/09/2022 20:20:57: Stopped music home at 290707
+
+[Info   : Unity Log] 12/09/2022 20:20:57: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:20:57: Resumed music home at 290707
+
+[Info   : Unity Log] 12/09/2022 20:21:16: Placed wood_floor_1x1
+
+[Info   : Unity Log] 12/09/2022 20:21:22: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 12/09/2022 20:21:26: Stopped music home at 1296422
+
+[Info   : Unity Log] 12/09/2022 20:21:26: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:21:26: Resumed music home at 1296422
+
+[Info   : Unity Log] 12/09/2022 20:21:28: Placed wood_floor_1x1
+
+[Info   : Unity Log] 12/09/2022 20:21:30: Stopped music home at 182515
+
+[Info   : Unity Log] 12/09/2022 20:21:30: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:21:30: Resumed music home at 182515
+
+[Info   : Unity Log] 12/09/2022 20:21:40: Stopped music home at 399839
+
+[Info   : Unity Log] 12/09/2022 20:21:40: Starting music home
+
+[Info   : Unity Log] 12/09/2022 20:21:40: Resumed music home at 399839
+
+[Info   : Unity Log] 12/09/2022 20:21:42: Force generaeting hmap (1536.0, 0.0, 256.0)
+
+[Info   : Unity Log] 12/09/2022 20:21:56: Stopped music home at 706540
+
+[Info   : Unity Log] 12/09/2022 20:22:16: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 12/09/2022 20:22:24: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 12/09/2022 20:22:25: Game - OnApplicationQuit
+
+[Info   : Unity Log] 12/09/2022 20:22:25: Shuting down
+
+[Info   : Unity Log] 12/09/2022 20:22:26: Uncompressed size 8398098
+
+[Info   : Unity Log] 12/09/2022 20:22:26: Compressed size 27845
+
+[Info   : Unity Log] 12/09/2022 20:22:26: Local moving, old kept as backup: C:/Users/tjrei/AppData/LocalLow/IronGate/Valheim/characters/stenar rölfsen.fch
+
+[Info   : Unity Log] 12/09/2022 20:22:26: Cloud Save: 51156 bytes. /characters/stenar rölfsen.fch.new
+
+[Info   : Unity Log] 12/09/2022 20:22:26: Steam writing file chunks 1 / 1, (51156 bytes)
+
+[Info   : Unity Log] 12/09/2022 20:22:26: Steam Cloud Move: 51156 bytes. /characters/stenar rölfsen.fch.new -> /characters/stenar rölfsen.fch
+
+[Info   : Unity Log] 12/09/2022 20:22:26: Steam writing file chunks 1 / 1, (51156 bytes)
+
+[Info   : Unity Log] 12/09/2022 20:22:26: Considering autobackup. World time: 508.76, short time: 7200, long time: 43200, backup count: 2
+
+[Info   : Unity Log] 12/09/2022 20:22:26: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Loading key sleepWithoutSpawn
+[Info   : Unity Log]  Loading key unclaimedBedsOnly
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Loading key honeyProductionSpeed
+[Info   : Unity Log]  Loading key maximumHoneyPerBeehive
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoDepositRange
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noMysticalForcesPreventPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log]  Loading key pieceComfortRadius
+[Info   : Unity Log]  Loading key alwaysDropResources
+[Info   : Unity Log]  Loading key alwaysDropExcludedResources
+[Info   : Unity Log]  Loading key enableAreaRepair
+[Info   : Unity Log]  Loading key areaRepairRadius
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Loading key inventoryFillTopToBottom
+[Info   : Unity Log]  Loading key mergeWithExistingStacks
+[Info   : Unity Log]  Loading key playerInventoryRows
+[Info   : Unity Log]  Loading key woodChestColumns
+[Info   : Unity Log]  Loading key woodChestRows
+[Info   : Unity Log]  Loading key personalChestColumns
+[Info   : Unity Log]  Loading key personalChestRows
+[Info   : Unity Log]  Loading key ironChestColumns
+[Info   : Unity Log]  Loading key ironChestRows
+[Info   : Unity Log]  Loading key blackmetalChestColumns
+[Info   : Unity Log]  Loading key blackmetalChestRows
+[Info   : Unity Log]  Loading key cartInventoryColumns
+[Info   : Unity Log]  Loading key cartInventoryRows
+[Info   : Unity Log]  Loading key karveInventoryColumns
+[Info   : Unity Log]  Loading key karveInventoryRows
+[Info   : Unity Log]  Loading key longboatInventoryColumns
+[Info   : Unity Log]  Loading key longboatInventoryRows
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Loading key fermenterDuration
+[Info   : Unity Log]  Loading key fermenterItemsProduced
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Loading key torches
+[Info   : Unity Log]  Loading key fires
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log]  Loading key allowAllOres
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key maximumWood
+[Info   : Unity Log]  Loading key dontProcessFineWood
+[Info   : Unity Log]  Loading key dontProcessRoundLog
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key stopAutoFuelThreshold
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Loading key maximumBarley
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key ignoreWindIntensity
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Loading key maximumFlax
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Loading key baseMaximumWeight
+[Info   : Unity Log]  Loading key baseMegingjordBuff
+[Info   : Unity Log]  Loading key baseAutoPickUpRange
+[Info   : Unity Log]  Loading key disableCameraShake
+[Info   : Unity Log]  Loading key baseUnarmedDamage
+[Info   : Unity Log]  Loading key cropNotifier
+[Info   : Unity Log]  Loading key restSecondsPerComfortLevel
+[Info   : Unity Log]  Loading key deathPenaltyMultiplier
+[Info   : Unity Log]  Loading key autoRepair
+[Info   : Unity Log]  Loading key guardianBuffDuration
+[Info   : Unity Log]  Loading key guardianBuffCooldown
+[Info   : Unity Log]  Loading key disableGuardianBuffAnimation
+[Info   : Unity Log]  Loading key autoEquipShield
+[Info   : Unity Log]  Loading key autoUnequipShield
+[Info   : Unity Log]  Loading key skipIntro
+[Info   : Unity Log]  Loading key iHaveArrivedOnSpawn
+[Info   : Unity Log]  Loading key queueWeaponChanges
+[Info   : Unity Log]  Loading key dontUnequipItemsWhenSwimming
+[Info   : Unity Log]  Loading key reequipItemsAfterSwimming
+[Info   : Unity Log]  Loading key fallDamageScalePercent
+[Info   : Unity Log]  Loading key maxFallDamage
+[Info   : Unity Log]  Loading key skipTutorials
+[Info   : Unity Log]  Loading key disableEncumbered
+[Info   : Unity Log]  Loading key autoPickUpWhenEncumbered
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Loading key workbenchRange
+[Info   : Unity Log]  Loading key workbenchEnemySpawnRange
+[Info   : Unity Log]  Loading key workbenchAttachmentRange
+[Info   : Unity Log]  Loading key disableRoofCheck
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Loading key edibles
+[Info   : Unity Log]  Loading key flowersAndIngredients
+[Info   : Unity Log]  Loading key materials
+[Info   : Unity Log]  Loading key valuables
+[Info   : Unity Log]  Loading key surtlingCores
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Loading key axes
+[Info   : Unity Log]  Loading key pickaxes
+[Info   : Unity Log]  Loading key hammer
+[Info   : Unity Log]  Loading key cultivator
+[Info   : Unity Log]  Loading key hoe
+[Info   : Unity Log]  Loading key weapons
+[Info   : Unity Log]  Loading key armor
+[Info   : Unity Log]  Loading key bows
+[Info   : Unity Log]  Loading key shields
+[Info   : Unity Log]  Loading key torch
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Loading key range
+[Info   : Unity Log]  Loading key disableCookingStation
+[Info   : Unity Log]  Loading key checkFromWorkbench
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key lookupInterval
+[Info   : Unity Log]  Loading key allowCraftingFromCarts
+[Info   : Unity Log]  Loading key allowCraftingFromShips
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] 12/09/2022 20:22:26: Successfully transpiled Pickable.RPC_Pick to patch item yields
+
+[Info   : Unity Log] 12/09/2022 20:22:26: ZNet Shutdown
+
+[Info   : Unity Log] 12/09/2022 20:22:27: Sending disconnect msg
+
+[Info   : Unity Log] 12/09/2022 20:22:27: Sent to 90166829300428803
+
+[Info   : Unity Log] 12/09/2022 20:22:27: Released session ticket
+
+[Info   : Unity Log] 12/09/2022 20:22:27: Disposing socket
+
+[Info   : Unity Log] 12/09/2022 20:22:27: Closing socket 90166829300428803
+
+[Info   : Unity Log] 12/09/2022 20:22:27:   send queue size:0
+
+[Info   : Unity Log] 12/09/2022 20:22:27: Last socket, unregistering callback
+
+[Info   : Unity Log] 12/09/2022 20:22:27: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 12/09/2022 20:22:27: Disposing socket
+
+[Info   : Unity Log] 12/09/2022 20:22:27: Last socket, unregistering callback
+
+[Info   : Unity Log] 12/09/2022 20:22:27: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+

@@ -3,12 +3,12 @@
     {
       "name": "ValheimPlus",
       "type": "zip",
-      "url": "https://github.com/Grantapher/ValheimPlus/releases/download/0.9.13.1/WindowsClient.zip"
+      "url": "https://github.com/Grantapher/ValheimPlus/releases/download/0.9.15.0/WindowsClient.zip"
     },
     {
       "name": "MassFarming",
       "type": "zip",
-      "url": "https://github.com/Xeio/MassFarming/releases/download/v1.9/MassFarming.zip",
+      "url": "https://github.com/Xeio/MassFarming/releases/download/v1.10/MassFarming.zip",
       "extractToPlugins": true
     },
     {
